@@ -6,7 +6,7 @@ The program used to generate this XML was lblImage
 
 ### Environment
 
-`equirements.txt`, which does not contain build information <!---to do later --> TODO
+`requirements.txt`, which does not contain build information <!---to do later --> TODO
 
 PIP INSTALL IMAGE
 
